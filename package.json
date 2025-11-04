@@ -1,6 +1,7 @@
 {
   "name": "role_base_access_control",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/Mona121212/Role_Base_Access_Control/issues"
   },
